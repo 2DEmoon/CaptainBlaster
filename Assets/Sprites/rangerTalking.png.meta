@@ -1,0 +1,2266 @@
+fileFormatVersion: 2
+guid: 62e177f21984e3e4194a3a71ba4076d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5702315144547486691
+    second: rangerTalking_0
+  - first:
+      213: 3026734049349533638
+    second: rangerTalking_1
+  - first:
+      213: 5255841605916139520
+    second: rangerTalking_2
+  - first:
+      213: 522645622627307106
+    second: rangerTalking_3
+  - first:
+      213: -8863450347861007516
+    second: rangerTalking_4
+  - first:
+      213: 1050007531465496803
+    second: rangerTalking_5
+  - first:
+      213: 7576924044122459347
+    second: rangerTalking_6
+  - first:
+      213: -981114234076026038
+    second: rangerTalking_7
+  - first:
+      213: -1099702395945438046
+    second: rangerTalking_8
+  - first:
+      213: -1899961962859414434
+    second: rangerTalking_9
+  - first:
+      213: -5534326452496696309
+    second: rangerTalking_10
+  - first:
+      213: 3783990064459904903
+    second: rangerTalking_11
+  - first:
+      213: 1305623259474097712
+    second: rangerTalking_12
+  - first:
+      213: 7805644462318545652
+    second: rangerTalking_13
+  - first:
+      213: 510554203094827785
+    second: rangerTalking_14
+  - first:
+      213: 8655960521937642329
+    second: rangerTalking_15
+  - first:
+      213: 7083549446144874156
+    second: rangerTalking_16
+  - first:
+      213: 2977555922858217172
+    second: rangerTalking_17
+  - first:
+      213: 3454167283275395501
+    second: rangerTalking_18
+  - first:
+      213: -5264868905275144536
+    second: rangerTalking_19
+  - first:
+      213: -2173806492560813553
+    second: rangerTalking_20
+  - first:
+      213: -6577279176669774184
+    second: rangerTalking_21
+  - first:
+      213: -1767720226416432702
+    second: rangerTalking_22
+  - first:
+      213: 5594057751457237079
+    second: rangerTalking_23
+  - first:
+      213: -6239901202011549920
+    second: rangerTalking_24
+  - first:
+      213: -9111310548539327931
+    second: rangerTalking_25
+  - first:
+      213: -2562730367119308019
+    second: rangerTalking_26
+  - first:
+      213: 7518942179237841674
+    second: rangerTalking_27
+  - first:
+      213: 344066932599806203
+    second: rangerTalking_28
+  - first:
+      213: -733457889433312421
+    second: rangerTalking_29
+  - first:
+      213: 6960208844955585209
+    second: rangerTalking_30
+  - first:
+      213: -6943623422369885468
+    second: rangerTalking_31
+  - first:
+      213: 2403785988329041053
+    second: rangerTalking_32
+  - first:
+      213: 4112927710794462792
+    second: rangerTalking_33
+  - first:
+      213: 7795872229019704822
+    second: rangerTalking_34
+  - first:
+      213: 2283710813915892770
+    second: rangerTalking_35
+  - first:
+      213: 7720099265288638588
+    second: rangerTalking_36
+  - first:
+      213: -8120633149263194747
+    second: rangerTalking_37
+  - first:
+      213: -6436129983987965072
+    second: rangerTalking_38
+  - first:
+      213: -3584903350818534893
+    second: rangerTalking_39
+  - first:
+      213: 667374979544798162
+    second: rangerTalking_40
+  - first:
+      213: -2049993591638656448
+    second: rangerTalking_41
+  - first:
+      213: -7775291907116268181
+    second: rangerTalking_42
+  - first:
+      213: 4388218478420272661
+    second: rangerTalking_43
+  - first:
+      213: 5333898170066428792
+    second: rangerTalking_44
+  - first:
+      213: 8105820474270806606
+    second: rangerTalking_45
+  - first:
+      213: -6882326873490294008
+    second: rangerTalking_46
+  - first:
+      213: 1783281118085291350
+    second: rangerTalking_47
+  - first:
+      213: 3822197492439990633
+    second: rangerTalking_48
+  - first:
+      213: -5669121706996298834
+    second: rangerTalking_49
+  - first:
+      213: 1704019763289609033
+    second: rangerTalking_50
+  - first:
+      213: 4496626731229971377
+    second: rangerTalking_51
+  - first:
+      213: 4306999985639578081
+    second: rangerTalking_52
+  - first:
+      213: -6488323032631272222
+    second: rangerTalking_53
+  - first:
+      213: 6573648215986645486
+    second: rangerTalking_54
+  - first:
+      213: 7869907147954340862
+    second: rangerTalking_55
+  - first:
+      213: 1583459832714308968
+    second: rangerTalking_56
+  - first:
+      213: 4534221670571398494
+    second: rangerTalking_57
+  - first:
+      213: 4708195355603283794
+    second: rangerTalking_58
+  - first:
+      213: 9196775648618617662
+    second: rangerTalking_59
+  - first:
+      213: 7529673465194916353
+    second: rangerTalking_60
+  - first:
+      213: 8164022994267465065
+    second: rangerTalking_61
+  - first:
+      213: 2338019153626374803
+    second: rangerTalking_62
+  - first:
+      213: -8939735866414051851
+    second: rangerTalking_63
+  - first:
+      213: -1898412869781384798
+    second: rangerTalking_64
+  - first:
+      213: -7462395989644562278
+    second: rangerTalking_65
+  - first:
+      213: -1298651809227903486
+    second: rangerTalking_66
+  - first:
+      213: 7600501680292197190
+    second: rangerTalking_67
+  - first:
+      213: 1234107523602568523
+    second: rangerTalking_68
+  - first:
+      213: -3874434424214628787
+    second: rangerTalking_69
+  - first:
+      213: -7646015126330830300
+    second: rangerTalking_70
+  - first:
+      213: 3625808957478836443
+    second: rangerTalking_71
+  - first:
+      213: -1312738468971874883
+    second: rangerTalking_72
+  - first:
+      213: 879947199360118542
+    second: rangerTalking_73
+  - first:
+      213: -5744920298861208983
+    second: rangerTalking_74
+  - first:
+      213: 66221185938511096
+    second: rangerTalking_75
+  - first:
+      213: -5083243098550771206
+    second: rangerTalking_76
+  - first:
+      213: 4192144525040235800
+    second: rangerTalking_77
+  - first:
+      213: -2641234438842908523
+    second: rangerTalking_78
+  - first:
+      213: -7808670599405991199
+    second: rangerTalking_79
+  - first:
+      213: 1829371006899850917
+    second: rangerTalking_80
+  - first:
+      213: -3151863575144174085
+    second: rangerTalking_81
+  - first:
+      213: -5831970654070027576
+    second: rangerTalking_82
+  - first:
+      213: -5329851714372705278
+    second: rangerTalking_83
+  - first:
+      213: 6991511716413693671
+    second: rangerTalking_84
+  - first:
+      213: -1822059503952246210
+    second: rangerTalking_85
+  - first:
+      213: 935792889449330425
+    second: rangerTalking_86
+  - first:
+      213: 8011651592242018798
+    second: rangerTalking_87
+  - first:
+      213: -4946203457778877362
+    second: rangerTalking_88
+  - first:
+      213: -7976139446291651400
+    second: rangerTalking_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rangerTalking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14bae3969e4dd0b0800000000000000
+      internalID: -5702315144547486691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cffe01e49e110a20800000000000000
+      internalID: 3026734049349533638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a95c081080f840800000000000000
+      internalID: 5255841605916139520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0d18bc6fc04700800000000000000
+      internalID: 522645622627307106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ae638ed2bef480800000000000000
+      internalID: -8863450347861007516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e85c746940629e00800000000000000
+      internalID: 1050007531465496803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc090c1644a62960800000000000000
+      internalID: 7576924044122459347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba1d16dc16262f0800000000000000
+      internalID: -981114234076026038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b6035f721db0f0800000000000000
+      internalID: -1099702395945438046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb20549aaf1a5e0800000000000000
+      internalID: -1899961962859414434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf2efd96f1233b0800000000000000
+      internalID: -5534326452496696309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7877db94aee638430800000000000000
+      internalID: 3783990064459904903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f07fdf618e1210800000000000000
+      internalID: 1305623259474097712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faed7b4848335c60800000000000000
+      internalID: 7805644462318545652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 525
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903cc0ab75ad51700800000000000000
+      internalID: 510554203094827785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e5e3cb36202870800000000000000
+      internalID: 8655960521937642329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca65166e0b2dd4260800000000000000
+      internalID: 7083549446144874156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de03d80657625920800000000000000
+      internalID: 2977555922858217172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f76ad7daafef20800000000000000
+      internalID: 3454167283275395501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6431800ad6fe6b0800000000000000
+      internalID: -5264868905275144536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f029978238615d1e0800000000000000
+      internalID: -2173806492560813553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_21
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e360ecf6fc8b4a0800000000000000
+      internalID: -6577279176669774184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9ec22e1dbc777e0800000000000000
+      internalID: -1767720226416432702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75801a8e2e512ad40800000000000000
+      internalID: 5594057751457237079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f819ccaea6769a0800000000000000
+      internalID: -6239901202011549920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_25
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3b04745f1e8180800000000000000
+      internalID: -9111310548539327931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_26
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b4fbc1f4a5f6cd0800000000000000
+      internalID: -2562730367119308019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_27
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4c203316a85860800000000000000
+      internalID: 7518942179237841674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d1906d0f56c400800000000000000
+      internalID: 344066932599806203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_29
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 420
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ae928feb32d5f0800000000000000
+      internalID: -733457889433312421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0c165111a79060800000000000000
+      internalID: 6960208844955585209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e29f87494b43af90800000000000000
+      internalID: -6943623422369885468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce96ede96fb5120800000000000000
+      internalID: 2403785988329041053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_33
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b3c436fd041930800000000000000
+      internalID: 4112927710794462792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd5d0dec70803c60800000000000000
+      internalID: 7795872229019704822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ccc29b2ee51bf10800000000000000
+      internalID: 2283710813915892770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c709842016d432b60800000000000000
+      internalID: 7720099265288638588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585d7eafc27bd4f80800000000000000
+      internalID: -8120633149263194747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073282031e54ea6a0800000000000000
+      internalID: -6436129983987965072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a8a54656ddf3ec0800000000000000
+      internalID: -3584903350818534893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d350cb020ef24900800000000000000
+      internalID: 667374979544798162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_41
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04afc8290b5fc83e0800000000000000
+      internalID: -2049993591638656448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_42
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b658d5ba43d981490800000000000000
+      internalID: -7775291907116268181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_43
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ab03d47516ec30800000000000000
+      internalID: 4388218478420272661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_44
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 315
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8736aee1020d50a40800000000000000
+      internalID: 5333898170066428792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42fffd56c8ad7070800000000000000
+      internalID: 8105820474270806606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_46
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7c753c201d70a0800000000000000
+      internalID: -6882326873490294008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d922a8abc7fb810800000000000000
+      internalID: 1783281118085291350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96146465e5c2b0530800000000000000
+      internalID: 3822197492439990633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_49
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab870208db3351b0800000000000000
+      internalID: -5669121706996298834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9435f1942f4e5a710800000000000000
+      internalID: 1704019763289609033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_51
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b30d7a103a376e30800000000000000
+      internalID: 4496626731229971377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9d8afdaa985cb30800000000000000
+      internalID: 4306999985639578081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec17041498d4f5a0800000000000000
+      internalID: -6488323032631272222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_54
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a348493a4a3b50800000000000000
+      internalID: 6573648215986645486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_55
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef34021cad6873d60800000000000000
+      internalID: 7869907147954340862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d290d045499f510800000000000000
+      internalID: 1583459832714308968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_57
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e555947069accee30800000000000000
+      internalID: 4534221670571398494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_58
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa0e71bbed65140800000000000000
+      internalID: 4708195355603283794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_59
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 210
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b10eec9b281af70800000000000000
+      internalID: 9196775648618617662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa0a76f16ce7860800000000000000
+      internalID: 7529673465194916353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ee6f88af6c4170800000000000000
+      internalID: 8164022994267465065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a5f96800527020800000000000000
+      internalID: 2338019153626374803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd4290289dafe380800000000000000
+      internalID: -8939735866414051851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a196ab9d8b77a5e0800000000000000
+      internalID: -1898412869781384798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_65
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90bfe7826e307890800000000000000
+      internalID: -7462395989644562278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_66
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e6d006f034afde0800000000000000
+      internalID: -1298651809227903486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643739052086a7960800000000000000
+      internalID: 7600501680292197190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_68
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45d7fe014e602110800000000000000
+      internalID: 1234107523602568523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_69
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4654273b6e3b3ac0800000000000000
+      internalID: -3874434424214628787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_70
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42299cfb0c5e3e590800000000000000
+      internalID: -7646015126330830300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_71
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd894f55906715230800000000000000
+      internalID: 3625808957478836443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_72
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f0f1515738cde0800000000000000
+      internalID: -1312738468971874883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_73
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fa5fec053363c00800000000000000
+      internalID: 879947199360118542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_74
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 105
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a52731d61f540b0800000000000000
+      internalID: -5744920298861208983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4587851d34be000800000000000000
+      internalID: 66221185938511096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1ece38551b479b0800000000000000
+      internalID: -5083243098550771206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153f1e0c3d7d2a30800000000000000
+      internalID: 4192144525040235800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_78
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5908d309543785bd0800000000000000
+      internalID: -2641234438842908523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8e52467702a390800000000000000
+      internalID: -7808670599405991199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_80
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0aa40d3b336910800000000000000
+      internalID: 1829371006899850917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_81
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfde90717c45244d0800000000000000
+      internalID: -3151863575144174085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_82
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca47a7d69da01fa0800000000000000
+      internalID: -5831970654070027576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ee43ca109806b0800000000000000
+      internalID: -5329851714372705278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_84
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed1db0dd6d60160800000000000000
+      internalID: 6991511716413693671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_85
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a4d4be88eb6b6e0800000000000000
+      internalID: -1822059503952246210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_86
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b6f6ccaa9cfc00800000000000000
+      internalID: 935792889449330425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_87
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee937c3fcaa1f2f60800000000000000
+      internalID: 8011651592242018798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_88
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cf748492e8b5bb0800000000000000
+      internalID: -4946203457778877362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rangerTalking_89
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b42ec8de6f0f4190800000000000000
+      internalID: -7976139446291651400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
