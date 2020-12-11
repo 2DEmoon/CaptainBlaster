@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-	public float speed = 10f;
+	public float speed;
 
 	GameManager gameManager;
     // Start is called before the first frame update
     void Start()
     {
         gameManager = GameObject.FindObjectOfType<GameManager>();
-
+        speed = 2 * gameManager.cameraHeight;
         Rigidbody2D rigidBody = GetComponent<Rigidbody2D>();
         rigidBody.velocity = new Vector2(0f, speed);
     }
@@ -24,8 +24,6 @@ public class Bullet : MonoBehaviour
     ////////////////////////////////////////////////////////
     void OnCollisionEnter2D(Collision2D other)
     {
-    	Destroy(other.gameObject);
-    	gameManager.AddScore();
     	Destroy(gameObject);
     }
 }
